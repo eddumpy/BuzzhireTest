@@ -12,6 +12,15 @@
       <change beforePath="$PROJECT_DIR$/buzzhireAPI/bvenv/lib/python3.6/site-packages/setuptools-40.2.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/bvenv/lib/python3.6/site-packages/setuptools-40.2.0.dist-info/RECORD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buzzhireAPI/bvenv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/bvenv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buzzhireAPI/bvenv/lib/python3.6/site-packages/wheel-0.31.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/bvenv/lib/python3.6/site-packages/wheel-0.31.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/api/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/api/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/events/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/events/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/events/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/events/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/events/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/events/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzzhireAPI/djangorest/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzzhireAPI/djangorest/manage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,30 +35,32 @@
     <session id="250689134">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="792" />
-          <entry key="txt" value="79" />
+          <entry key="py" value="843" />
+          <entry key="txt" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="79" />
-          <entry key="Python" value="792" />
+          <entry key="PLAIN_TEXT" value="103" />
+          <entry key="Python" value="843" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -60,20 +71,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binary_plateau.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,6 +87,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/binary_plateau.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/urls.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/api/admin.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/api/models.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/api/tests.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/settings.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/wsgi.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/events/models.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/events/tests.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/events/views.py" />
+        <option value="$PROJECT_DIR$/buzzhireAPI/djangorest/manage.py" />
       </list>
     </option>
   </component>
@@ -133,6 +141,13 @@
               <item name="buzzhireAPI" type="462c0819:PsiDirectoryNode" />
               <item name="djangorest" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuzzhireTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuzzhireTest" type="462c0819:PsiDirectoryNode" />
+              <item name="buzzhireAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="djangorest" type="462c0819:PsiDirectoryNode" />
+              <item name="djangorest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,34 +229,40 @@
       <option name="project" value="LOCAL" />
       <updated>1536307614157</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added commented out url">
+      <created>1536308106439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308106439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1611" y="70" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.329927" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,18 +274,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed binary plateau" />
     <MESSAGE value="upload to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload to git" />
+    <MESSAGE value="added commented out url" />
+    <option name="LAST_COMMIT_MESSAGE" value="added commented out url" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/binary_plateau.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -272,6 +285,126 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/migrations/0002_auto_20180906_1954.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/api/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#226#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/djangorest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1283">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/events/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/events/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/events/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buzzhireAPI/djangorest/events/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
